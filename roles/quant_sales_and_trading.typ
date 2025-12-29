@@ -1,4 +1,4 @@
-#import "../dual_format.typ": *
+
 
 = Quantitative Analyst (Quant) Roles in Sales and Trading
 

@@ -1,4 +1,4 @@
-#import "../dual_format.typ": *
+
 
 = Trader Roles in Sales and Trading
 

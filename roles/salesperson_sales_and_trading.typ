@@ -1,4 +1,4 @@
-#import "../dual_format.typ": *
+
 
 = Salesperson Roles in Sales and Trading
 

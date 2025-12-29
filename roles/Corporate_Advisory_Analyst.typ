@@ -1,4 +1,4 @@
-#import "../dual_format.typ": *
+
 
 = Role Profile: Corporate Advisory Analyst
 == Boutique Corporate Advisory / Investment Banking

@@ -1,4 +1,4 @@
-#import "../dual_format.typ": *
+
 
 = Actuary Roles at Reinsurance Companies
 

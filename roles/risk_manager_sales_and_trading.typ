@@ -1,4 +1,4 @@
-#import "../dual_format.typ": *
+
 
 = Risk Manager (Sales & Trading) - Career Pathways
 

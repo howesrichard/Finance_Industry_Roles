@@ -1,4 +1,4 @@
-#import "../dual_format.typ": *
+
 
 = Infrastructure Due Diligence Analyst Role
 

@@ -1,4 +1,4 @@
-#import "../dual_format.typ": *
+
 
 = Structurer Roles in Sales and Trading
 

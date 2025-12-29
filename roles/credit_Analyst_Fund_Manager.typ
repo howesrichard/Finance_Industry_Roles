@@ -1,4 +1,4 @@
-#import "../dual_format.typ": *
+
 
 = Role Profile: Credit Analyst – Investment Team
 == Fixed Income / Credit Fund Manager

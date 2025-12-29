@@ -1,4 +1,4 @@
-#import "../dual_format.typ": *
+
 
 = Strategist (Sales & Trading) - Career Pathways
 

@@ -1,4 +1,4 @@
-#import "../dual_format.typ": *
+
 
 = Quantitative Researcher (Hedge Fund) - Career Pathways
 

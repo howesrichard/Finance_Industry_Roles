@@ -1,5 +1,3 @@
-#import "../dual_format.typ": *
-
 = Research Analyst Roles in Long-Only Equity Fund Managers
 
 == Overview

@@ -1,4 +1,4 @@
-#import "../dual_format.typ": *
+
 
 = Quantitative Investment Manager Roles
 
